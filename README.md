@@ -37,3 +37,7 @@ root folder/
 ## ⚙️ Requirements
 
 Python 3.8+ is recommended. 
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
